@@ -1,4 +1,4 @@
-package codingmentor.shop.dto;
+package codingmentor.shop.entity;
 
 public class User {
 	public String userId;

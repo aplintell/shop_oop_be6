@@ -1,0 +1,2 @@
+1,Sour Coffee Shop,true,true,0
+2,SunFlower Shop,false,false,10
